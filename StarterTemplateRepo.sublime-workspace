@@ -1,0 +1,226 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font-s",
+				"font-size"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "<!DOCTYPE html>\n<!--[if lt IE 7]>      <html class=\"no-js lt-ie9 lt-ie8 lt-ie7\"> <![endif]-->\n<!--[if IE 7]>         <html class=\"no-js lt-ie9 lt-ie8\"> <![endif]-->\n<!--[if IE 8]>         <html class=\"no-js lt-ie9\"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class=\"no-js\"> <!--<![endif]-->\n    <head>\n        <meta charset=\"utf-8\">\n        <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n        <title></title>\n        <meta name=\"description\" content=\"\">\n        <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n\n        <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->\n\n        <link rel=\"stylesheet\" href=\"assets/css/normalize.css\">\n        <link rel=\"stylesheet\" href=\"assets/css/main.css\">\n        <script src=\"assets/js/vendor/modernizr-2.6.2.min.js\"></script>\n    </head>\n    <body>\n        <!--[if lt IE 7]>\n            <p class=\"browsehappy\">You are using an <strong>outdated</strong> browser. Please <a href=\"http://browsehappy.com/\">upgrade your browser</a> to improve your experience.</p>\n        <![endif]-->\n\n        <div id=\"header\">\n            <header>\n                <h1><span>Business Name</span></h1>\n            </header>\n        </div>\n        <script src=\"//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js\"></script>\n        <script>window.jQuery || document.write('<script src=\"assets/js/vendor/jquery-1.10.2.min.js\"><\\/script>')</script>\n        <script src=\"assets/js/plugins.js\"></script>\n        <script src=\"assets/js/main.js\"></script>\n\n        <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->\n        <script>\n            (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=\n            function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;\n            e=o.createElement(i);r=o.getElementsByTagName(i)[0];\n            e.src='//www.google-analytics.com/analytics.js';\n            r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));\n            ga('create','UA-XXXXX-X');ga('send','pageview');\n        </script>\n    </body>\n</html>\n",
+			"file": "index.html",
+			"file_size": 2014,
+			"file_write_time": 130233043860000000,
+			"settings":
+			{
+				"buffer_size": 2077,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Applications/MAMP/htdocs/lexisnexis/source/index.php",
+		"/Applications/MAMP/htdocs/lexisnexis/source/pages/content.php",
+		"/Applications/MAMP/htdocs/lexisnexis/source/pages/featured_insights.php",
+		"/Applications/MAMP/htdocs/lexisnexis/source/pages/fraud_report.php",
+		"/Applications/MAMP/htdocs/lexisnexis/source/includes/breadcrumbs.inc.php",
+		"/Applications/MAMP/htdocs/lexisnexis/source/includes/featured.inc.php",
+		"/Applications/MAMP/htdocs/lexisnexis/source/includes/filter.inc.php",
+		"/Applications/MAMP/htdocs/lexisnexis/source/includes/footer.inc.php",
+		"/Applications/MAMP/htdocs/lexisnexis/source/includes/footer.php",
+		"/Applications/MAMP/htdocs/lexisnexis/source/includes/global.header.php",
+		"/Applications/MAMP/htdocs/lexisnexis/source/includes/header.php",
+		"/Applications/MAMP/htdocs/lexisnexis/source/includes/nav.inc.php",
+		"/Applications/MAMP/htdocs/lexisnexis/source/css/global_ie.css",
+		"/Applications/MAMP/htdocs/lexisnexis/source/css/global-ie6.css",
+		"/Applications/MAMP/htdocs/lexisnexis/source/css/insights.css",
+		"/Applications/MAMP/htdocs/lexisnexis/source/featured_insights.php",
+		"/Applications/MAMP/htdocs/lexisnexis/source/footer.php",
+		"/Applications/MAMP/htdocs/lexisnexis/source/footer.inc.php",
+		"/Applications/MAMP/htdocs/lexisnexis/source/content.php",
+		"/Applications/MAMP/htdocs/lexisnexis/source/global.header.php",
+		"/Applications/MAMP/htdocs/lexisnexis/source/featured.inc.php",
+		"/Applications/MAMP/htdocs/lexisnexis/source/fraud_report.php",
+		"/Applications/MAMP/htdocs/lexisnexis/source/css/ie7.css",
+		"/Applications/MAMP/htdocs/lexisnexis/source/popup.php",
+		"/Applications/MAMP/htdocs/lexisnexis/source/header.php",
+		"/Applications/MAMP/htdocs/lexisnexis/source/css/print.css",
+		"/Applications/MAMP/htdocs/lexisnexis/source/script/browser_selector.js",
+		"/Applications/MAMP/htdocs/lexisnexis/source/css/additional.css",
+		"/Applications/MAMP/htdocs/ampthis/source/index.php",
+		"/Users/jeremy.davis/Documents/Projects/Ampthis/source/<?php phpinfo(); ?>"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			");\""
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2077,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1173,
+								1173
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"project": "StarterTemplateRepo.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 182.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
